@@ -221,7 +221,6 @@
 998 Uzbekistan
 678 Vanuatu
 379 Vatican City State
-39 Vatican City State
 58 Venezuela
 84 Viet Nam
 681 Wallis and Futuna
