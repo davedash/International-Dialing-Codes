@@ -1,0 +1,7 @@
+I took a list of International Dialing codes and turned it into a simple text file.
+
+An HTML list of options can easily be created via a search and replace:
+
+$ cat codes.txt|perl -pe 's|^(\d+) (.*)$|<option value="+\1">\2</option>|'>codes.html
+
+Please fork with any updates.
